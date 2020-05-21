@@ -20,6 +20,8 @@ ASCII Character Codes Table & Cheat Sheet to minimize the use of lenghty arrays.
 
 Tried creating a user friendly application so the user have the ability to check on the boxes to filter what kind of password they need and they can select a length of the password just by using the range feature.
 
+## Link
 
+https://shaleem90.github.io/Password-Generator/
 
 
